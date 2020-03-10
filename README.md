@@ -13,4 +13,3 @@
 
 ## __Premise__
 - When one does not want to decide between two options one can utilize this tool to generate a decision. Will this help improve your indecisiveness? I am uncertain..
-- 
